@@ -1,1 +1,1 @@
-//sample file
+//sample file for component.tsx
